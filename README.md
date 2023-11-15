@@ -13,7 +13,7 @@ This repository contains a collection of data science projects completed as part
 | 5 | Video Game Success Analysis | Analysis of factors contributing to the success of video games. |
 | 6 | Chicago Taxi Analysis | SQL-based analysis of Chicago Taxi data to derive insights into travel patterns. |
 | 7 | Mobile Plan Recommendation Model | Development of a model to recommend mobile plans based on user behavior. |
-| 8 | Supervised Learning: Customer Churn Predictor | Machine Learning model to predict customer churn for a service. |
+| 8 | Supervised Learning: Customer Churn Predictor | Machine Learning model to predict customer churn. |
 | 9 | Oil Well Profit Prediction with Linear Regression | Using Linear Regression to predict profitability of oil wells. |
 | 10 | Machine Learning in Mining Economic Analysis | Application of Machine Learning techniques in mining economic analysis. |
 | 11 | Linear Algebra Project | Application of linear algebra concepts in data analysis. |
