@@ -29,6 +29,9 @@ This repository serves as a comprehensive showcase of my data science journey at
 
 ## Contact
 
-[Your Contact Information]
+LinkedIn: https://www.linkedin.com/in/pat-bain-34a118195/
+
+Email: pat.bain7@gmail.com
+
 
 Feel free to explore the projects and reach out if you have any questions or suggestions!
